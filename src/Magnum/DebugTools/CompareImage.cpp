@@ -34,6 +34,7 @@
 #include <Corrade/Containers/StringStl.h> /** @todo remove once AbstractImporter is <string>-free */
 #include <Corrade/Containers/Optional.h>
 #include <Corrade/PluginManager/Manager.h>
+#include <Corrade/PluginManager/Manager.hpp>
 #include <Corrade/TestSuite/Comparator.h>
 #include <Corrade/Utility/DebugStl.h>
 #include <Corrade/Utility/Path.h>

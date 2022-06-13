@@ -28,6 +28,7 @@
 #include <Corrade/Containers/Optional.h>
 #include <Corrade/PluginManager/Manager.h>
 #include <Corrade/PluginManager/PluginMetadata.h>
+#include <Corrade/PluginManager/Manager.hpp>
 #include <Corrade/Utility/Assert.h>
 #include <Corrade/Utility/DebugStl.h> /* for PluginMetadata::name() */
 #include <Corrade/Utility/Path.h>

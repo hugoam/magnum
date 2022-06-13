@@ -35,6 +35,10 @@
 #include "Magnum/Magnum.h"
 #include "Magnum/Audio/BufferFormat.h"
 
+#ifndef MAGNUM_BUILD_DEPRECATED
+#include <string>
+#endif
+
 namespace Magnum { namespace Audio {
 
 /**

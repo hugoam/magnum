@@ -29,6 +29,7 @@
 #include <Corrade/Containers/Optional.h>
 #include <Corrade/Containers/StringView.h>
 #include <Corrade/PluginManager/Manager.h>
+#include <Corrade/PluginManager/Manager.hpp>
 #include <Corrade/PluginManager/PluginMetadata.h>
 #include <Corrade/Utility/Assert.h>
 #include <Corrade/Utility/DebugStl.h> /* for PluginMetadata::name() */

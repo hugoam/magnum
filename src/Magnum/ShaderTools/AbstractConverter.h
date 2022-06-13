@@ -50,6 +50,8 @@
 #include <Corrade/Containers/PairStl.h>
 
 #include "Magnum/ShaderTools/Stage.h"
+#else
+#include <string>
 #endif
 
 namespace Magnum { namespace ShaderTools {

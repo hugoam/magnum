@@ -28,6 +28,7 @@
 #include <Corrade/Utility/DebugStl.h> /** @todo remove once Arguments is std::string-free */
 #include <Corrade/Utility/Path.h>
 #include <Corrade/PluginManager/Manager.h>
+#include <Corrade/PluginManager/Manager.hpp>
 
 #include "Magnum/Image.h"
 #include "Magnum/ImageView.h"

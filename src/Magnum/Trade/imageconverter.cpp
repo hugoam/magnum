@@ -28,6 +28,7 @@
 #include <Corrade/Containers/StaticArray.h>
 #include <Corrade/Containers/StridedArrayView.h>
 #include <Corrade/PluginManager/Manager.h>
+#include <Corrade/PluginManager/Manager.hpp>
 #include <Corrade/Utility/Arguments.h>
 #include <Corrade/Utility/Algorithms.h>
 #include <Corrade/Utility/ConfigurationGroup.h>
